@@ -13,7 +13,7 @@
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background: #fff;
+    background: #ffffff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
@@ -32,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #edeef0;
+    background: #c8c8c8;
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
